@@ -1,0 +1,6 @@
+gurobipy
+numpy
+z3-solver
+sympy
+tqdm
+matplotlib
