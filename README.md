@@ -55,10 +55,3 @@ Gurobi requires a valid license to work. Follow these steps to install and activ
    ```bash
    python -c "import gurobipy; print(gurobipy.__version__)"
    ```
-
-### Troubleshooting
-
-If you encounter issues with `z3-solver`, install it manually with:
-
-```bash
-pip install z3-solver
